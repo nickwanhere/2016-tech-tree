@@ -6,3 +6,5 @@ It is kind of late, but better than nothing. The plan would be learning new piec
 
 ##Week 2 (18th to 24th Sep) : Hugo , Lambda , S3
 
+##Week 3 (25th to 1st Oct) : GraphQL
+
